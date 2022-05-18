@@ -3,7 +3,7 @@ O tema do trabalho de conclusão do curso técnico em informática no Instituto 
 
 ### Clonar o repositório
 ```
-git clone 
+git clone https://github.com/HenriqueCastel/TCC-IFSul-2022
 ```
 ### Instalar as depencências
 ```
